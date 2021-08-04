@@ -1,0 +1,1 @@
+Example helps to understand methods componentDidMount() & componentWillUnmount()
